@@ -265,4 +265,4 @@ This project is licensed under the [MIT License](LICENSE) — see the LICENSE fi
 
 ---
 
-*Developed with ❤️ by Lokeswaran S & contributors.*
+*Developed with ❤️ by Dhanush k & contributors.*
